@@ -7,11 +7,11 @@ Let me give you a brief overview of the project, This app for manage all your pe
 
 
 ## This Project Created use :
-   Framwork : Flutter
-   DataBase : SQLITE
-   state Management : Bloc (Cubit) 
-   Architecture Design : Model- View - controller (MVC)
-   SOLID Principles
+  - Framwork : Flutter
+  - DataBase : SQLITE
+  - state Management : Bloc (Cubit) 
+  - Architecture Design : Model- View - controller (MVC)
+  - SOLID Principles
 
 ## Screenshots:
 ![New Task Screen ](https://github.com/mostafaalimorsy/TO-DO-APP/blob/master/IMG_20220416_185338.jpg)
